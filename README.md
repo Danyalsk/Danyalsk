@@ -134,12 +134,3 @@ I build products end to end, from the database to the App Store. Right now that 
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
   <img alt="Toolbox by layer. Languages: TypeScript, JavaScript, Swift, Python, SQL, HTML/CSS. Frontend: React 19, Next.js, TanStack Router and Query, Tailwind v4, shadcn/ui, Framer Motion, Three.js, GSAP. Backend: Hono, Bun, Elysia, Express, Node.js, Zod, Better Auth, Socket.IO. Data: PostgreSQL, Drizzle ORM, MongoDB, Redis, Neon, Hyperdrive. AI: Claude Agent SDK, LLM agents, embeddings, retrieval, Whisper, OpenCV, FFmpeg. Mobile: React Native, Expo, iOS and SwiftUI, App Store releases. Infra: Cloudflare Workers, Queues, Durable Objects, R2, Vercel, Docker, GitHub Actions." src="assets/toolbox-light.svg" width="100%">
 </picture>
-
-<br>
-
-## Shipping log
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub contribution activity for the last 12 months, regenerated daily." src="assets/stats-light.svg" width="100%">
-</picture>

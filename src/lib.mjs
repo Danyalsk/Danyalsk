@@ -20,13 +20,11 @@ for (const [key, f] of Object.entries(fonts)) f.key = key;
 export const themes = {
   dark: {
     bg: '#07070b', panel: '#0e0e15', ink: '#ececf1', dim: '#8d8c9c', faint: '#24232f', line: '#1a1923',
-    accent: '#a78bfa', deep: '#6d4aff', glow: '#d8ccff', core: '#1b1240', ok: '#3ddc84',
-    heat: ['#16151e', '#2e2160', '#4b33a8', '#7c5cff', '#b9a4ff'],
+    accent: '#a78bfa', deep: '#6d4aff', glow: '#d8ccff', core: '#1b1240',
   },
   light: {
     bg: '#fbfaff', panel: '#ffffff', ink: '#0c0b14', dim: '#5f5d70', faint: '#dcd9ea', line: '#ebe9f4',
-    accent: '#6d4aff', deep: '#4c2fd6', glow: '#8b6dff', core: '#efeaff', ok: '#15a34a',
-    heat: ['#ecebf3', '#d3c8ff', '#a891ff', '#7a5cff', '#4c2fd6'],
+    accent: '#6d4aff', deep: '#4c2fd6', glow: '#8b6dff', core: '#efeaff',
   },
 };
 

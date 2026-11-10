@@ -2,10 +2,9 @@
   "name": "danyalsk-profile",
   "private": true,
   "type": "module",
-  "description": "Generates the art and live stats on github.com/Danyalsk",
+  "description": "Generates the art on github.com/Danyalsk",
   "scripts": {
-    "art": "node src/art.mjs",
-    "stats": "node src/stats.mjs"
+    "art": "node src/art.mjs"
   },
   "dependencies": {
     "@fontsource/instrument-serif": "5.0.18",
