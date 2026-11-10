@@ -1,183 +1,160 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Danyal+%F0%9F%91%8B;Software+Developer+%7C+Full-Stack+%2B+AI;I+ship+real+products%2C+not+tutorials.;Turning+ideas+into+code+%E2%9A%A1" alt="Typing SVG" />
-</h1>
+<a href="https://danyalsameer.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img alt="Danyal Sameer Khalife: full-stack and AI developer in India. I ship AI business operators, creator marketplaces, App Store apps, spare-parts networks and games that teach AI." src="assets/hero-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://github.com/Danyalsk">
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Danyalsk&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://github.com/Danyalsk?tab=followers">
-    <img src="https://img.shields.io/github/followers/Danyalsk?style=for-the-badge&color=7C3AED&labelColor=1a1b27" alt="Followers" />
-  </a>
+  <a href="https://danyalsameer.vercel.app"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://danyalsameer.vercel.app/work/mira/"><b>Mira</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://thedslabs.vercel.app"><b>DS Labs</b></a>
+  &nbsp;·&nbsp;
+  <a href="#selected-work"><b>Work</b></a>
+  &nbsp;·&nbsp;
+  <a href="#toolbox"><b>Toolbox</b></a>
 </p>
 
----
+I build products end to end, from the database to the App Store. Right now that is **Mira**, an AI operator that answers a business's DMs in the owner's own voice. Before that: a food-creator marketplace, an App Store app for creator collabs, a payouts engine that can't overspend, and a spare-parts network for India.
 
-### 🚀 About Me
+<br>
 
-```ts
-const danyal = {
-  name: "Danyal Sameer Khalife",
-  role: "Software Developer",
-  focus: ["Full-Stack Web", "AI-Powered Products", "Dev Tooling"],
-  currentlyBuilding: [
-    "ContentDNA — YouTube → AI-generated shorts + tweets",
-    "FindMySpare — Auto-parts marketplace with escrow",
-  ],
-  stack: {
-    frontend: ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS"],
-    backend:  ["Bun", "ElysiaJS", "Node.js"],
-    data:     ["PostgreSQL", "Drizzle ORM"],
-    ai:       ["Ollama (llama3.2)", "Whisper", "OpenCV", "FFmpeg"],
-  },
-  philosophy: "Ship it, then iterate.",
-};
-```
+## Now shipping: Mira
 
----
+**An AI operator for every inbox.** Customers message a business on Instagram, WhatsApp, Gmail and six more channels. Mira reads each message, works out what the customer is trying to get done, and replies in the owner's voice, or hands the thread to a person when it should.
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-**Backend & Runtimes**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElysiaJS-8B5CF6?style=for-the-badge&logo=elysia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=EB5424" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-</p>
-
-**Database**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-</p>
-
-**AI / ML & Media**
-
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### ✨ Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mira-dark.svg">
+  <img alt="Mira pipeline: a message lands on any of 9 channels, is ranked by intent and urgency, a reply is drafted in the owner's voice, an agent runs the conversation, and the deal closes or a human steps in." src="assets/mira-light.svg" width="100%">
+</picture>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 ContentDNA</h3>
-      <p><em>YouTube → AI-generated shorts + tweets, fully local.</em></p>
-      <p>
-        A full-stack pipeline that downloads a YouTube video, transcribes it with <b>Whisper</b>, extracts its "Content DNA" using a <b>local Ollama + llama3.2</b> model, and auto-generates both <b>Twitter posts</b> and <b>9:16 vertical shorts</b> using <b>OpenCV</b> face-tracking and <b>FFmpeg</b>. Real-time progress streamed over SSE.
-      </p>
-      <p>
-        <code>React 19</code> <code>Vite</code> <code>TS</code> <code>Bun</code> <code>ElysiaJS</code> <code>Ollama</code> <code>Whisper</code> <code>OpenCV</code>
-      </p>
-      <a href="https://github.com/Danyalsk/content-dna-mvp">
-        <img src="https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+      <b>Reads the conversation, not keywords</b><br>
+      Every message is read as an act (asks, objects, hesitates, chases…) against up to two open jobs, such as <i>buy</i>, <i>book</i> or <i>track</i>. Each job moves from <i>exploring</i> to <i>closed</i>, and the reply is picked from where the job stands.
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 FindMySpare</h3>
-      <p><em>Auto-parts marketplace with built-in escrow.</em></p>
-      <p>
-        A trusted marketplace connecting auto-parts buyers and suppliers, with an escrow system to protect every transaction. Full auth flow, role-based dashboards (buyer / supplier), orders, disputes and refunds — shipped on Vercel.
-      </p>
-      <p>
-        <code>Next.js 15</code> <code>TS</code> <code>Tailwind v4</code> <code>Drizzle</code> <code>PostgreSQL</code> <code>NextAuth v5</code> <code>Zod</code> <code>Zustand</code>
-      </p>
-      <a href="https://github.com/Danyalsk/findmyspare">
-        <img src="https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://findmyspare.vercel.app">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
+      <b>Grounded in what the owner said</b><br>
+      Replies come from the owner's own facts, retrieved with multilingual embeddings. When Mira doesn't know something, she asks the owner instead of making it up.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Built on the edge</b><br>
+      A Hono API on Cloudflare Workers, with Queues for jobs, Durable Objects for the live inbox, and Postgres behind Hyperdrive with Drizzle. The brain runs on the Claude Agent SDK.
+    </td>
+    <td width="50%" valign="top">
+      <b>Tested before it talks to a customer</b><br>
+      150+ test files, plus a corpus of 60 conversations across different kinds of business that is replayed and scored turn by turn before each rollout.
     </td>
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danyalsk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyalsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" />
+  <sub>430+ of my commits in 2026 · 1,000+ in the repo · live in production</sub><br>
+  <a href="https://danyalsameer.vercel.app/work/mira/">Case study</a> &nbsp;·&nbsp; <a href="https://prototype.miraadmin7.workers.dev/">Try the prototype</a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Danyalsk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danyalsk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
+## Selected work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://danyalsameer.vercel.app/work/prepd/"><img src="assets/work/prepd.webp" alt="Prepd" width="100%"></a>
+      <h3>Prepd <sub><sup>2025 · iOS, Android & web</sup></sub></h3>
+      <b>Order the dishes you see food creators make.</b> Meals are cooked in cloud kitchens by chefs the creator trained, delivered in about an hour. Creators get an app and dashboard to manage recipes and track sales.
+      <p><code>Next.js</code> <code>iOS</code> <code>Android</code></p>
+      <a href="https://www.prepdby.com/">Live ↗</a> &nbsp;·&nbsp; <a href="https://danyalsameer.vercel.app/work/prepd/">Case study ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://danyalsameer.vercel.app/work/cliqit/"><img src="assets/work/cliqit.webp" alt="CliqIt" width="100%"></a>
+      <h3>CliqIt <sub><sup>2025 · iPhone & iPad</sup></sub></h3>
+      <b>Meet. Collab. Grow.</b> An App Store app that connects creators with local brand offers: browse, RSVP to a slot, get real-time alerts and check in on site with a QR code.
+      <p><code>iOS</code> <code>iPadOS</code> <code>Push</code> <code>QR check-in</code></p>
+      <a href="https://apps.apple.com/in/app/cliqit/id6748177182">App Store ↗</a> &nbsp;·&nbsp; <a href="https://danyalsameer.vercel.app/work/cliqit/">Case study ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://danyalsameer.vercel.app/work/findmyspare/"><img src="assets/work/findmyspare.webp" alt="FindMySpare" width="100%"></a>
+      <h3>FindMySpare <sub><sup>2026 · web, mobile & API</sup></sub></h3>
+      <b>Every spare part, for every machine in India.</b> Three surfaces on one backend: buy from verified sellers or request quotes, book a technician, and keep a passport of every machine's repairs.
+      <p><code>Next.js</code> <code>Expo</code> <code>Bun</code> <code>Elysia</code> <code>Drizzle</code> <code>Postgres</code> <code>Socket.IO</code></p>
+      <a href="https://findmyspare.vercel.app">Live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Danyalsk/findmyspare">Code ↗</a> &nbsp;·&nbsp; <a href="https://danyalsameer.vercel.app/work/findmyspare/">Case study ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://danyalsameer.vercel.app/work/memed/"><img src="assets/work/memed.webp" alt="Meme'd" width="100%"></a>
+      <h3>Meme'd <sub><sup>2026 · web app + API</sup></sub></h3>
+      <b>Creator campaigns with payouts that never overspend.</b> Creators are paid as their posts cross view milestones. MongoDB transactions guarantee a campaign never pays past its budget, even under concurrent updates.
+      <p><code>Next.js</code> <code>Express</code> <code>MongoDB</code> <code>Redis</code> <code>Jest</code> <code>Docker</code></p>
+      <a href="https://getmemed.vercel.app">Live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Danyalsk/getmemed">Code ↗</a> &nbsp;·&nbsp; <a href="https://danyalsameer.vercel.app/work/memed/">Case study ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://danyalsameer.vercel.app/work/codeclash/"><img src="assets/work/codeclash.webp" alt="CodeClash" width="100%"></a>
+      <h3>CodeClash <sub><sup>2026 · iOS & Android prototype</sup></sub></h3>
+      <b>LeetCode for talking to AI.</b> 150 prompt-writing challenges across three worlds, graded on the phone against hidden tests and a token par, with streaks, leagues and a mascot that reviews your prompt.
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
+      <a href="https://danyalsameer.vercel.app/work/codeclash/">Case study ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More from the lab</h3>
+      <p>
+        <a href="https://github.com/Danyalsk/content-dna-mvp"><b>ContentDNA</b></a><br>
+        A YouTube video in, shorts and posts out: Whisper transcription, a local LLM, and OpenCV face-tracked 9:16 crops with FFmpeg.
+      </p>
+      <p>
+        <a href="https://github.com/Danyalsk/snookit"><b>Snook.it</b></a><br>
+        An Expo app for snooker and pool halls: tables, live sessions, waitlists and bookings.
+      </p>
+      <p>
+        <a href="https://mueenfilmsandco.vercel.app"><b>Mueen Films & Co.</b></a><br>
+        Website and brand identity for a Konkan photography and film studio.
+      </p>
+      <p>
+        <a href="https://thedslabs.vercel.app"><b>DS Labs</b></a><br>
+        The parent studio behind the work, with an image-led site built in React and Vite.
+      </p>
+      <a href="https://github.com/Danyalsk?tab=repositories">All repositories ↗</a>
+    </td>
+  </tr>
+</table>
 
-### 🐍 Contribution Graph
+<br>
 
-<p align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Danyalsk/Danyalsk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## Toolbox
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+  <img alt="Toolbox by layer. Languages: TypeScript, JavaScript, Swift, Python, SQL, HTML/CSS. Frontend: React 19, Next.js, TanStack Router and Query, Tailwind v4, shadcn/ui, Framer Motion, Three.js, GSAP. Backend: Hono, Bun, Elysia, Express, Node.js, Zod, Better Auth, Socket.IO. Data: PostgreSQL, Drizzle ORM, MongoDB, Redis, Neon, Hyperdrive. AI: Claude Agent SDK, LLM agents, embeddings, retrieval, Whisper, OpenCV, FFmpeg. Mobile: React Native, Expo, iOS and SwiftUI, App Store releases. Infra: Cloudflare Workers, Queues, Durable Objects, R2, Vercel, Docker, GitHub Actions." src="assets/toolbox-light.svg" width="100%">
+</picture>
 
-### 🔗 Connect with Me
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+## Shipping log
 
-<p align="center">
-  <i>⚡ "Code speaks louder than words. Scroll down and you'll see the receipts." ⚡</i>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub contribution activity for the last 12 months, regenerated daily." src="assets/stats-light.svg" width="100%">
+</picture>
+
+<details>
+  <summary><b>How this profile is built</b></summary>
+  <br>
+  Every image on this page is generated by code in <a href="src"><code>src/</code></a>, with no third-party stat services. The type is my portfolio's fonts (Space Grotesk, Instrument Serif, JetBrains Mono) converted to SVG outlines, so it looks the same on every machine. Each image has a dark and a light version that follows your GitHub theme, and the motion turns off if you've asked your system to reduce it. The shipping log is rebuilt every day by a <a href=".github/workflows/stats.yml">GitHub Action</a>, which keeps the last good card if the API call fails.
+</details>
+
+<br>
+
+<a href="https://danyalsameer.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/signoff-dark.svg">
+    <img alt="Ship it, then iterate. Thanks for scrolling." src="assets/signoff-light.svg" width="100%">
+  </picture>
+</a>

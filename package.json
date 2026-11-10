@@ -1,0 +1,16 @@
+{
+  "name": "danyalsk-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generates the art and live stats on github.com/Danyalsk",
+  "scripts": {
+    "art": "node src/art.mjs",
+    "stats": "node src/stats.mjs"
+  },
+  "dependencies": {
+    "@fontsource/instrument-serif": "5.0.18",
+    "@fontsource/jetbrains-mono": "5.0.20",
+    "@fontsource/space-grotesk": "5.0.18",
+    "opentype.js": "1.3.4"
+  }
+}
